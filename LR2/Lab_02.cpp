@@ -22,7 +22,7 @@ int main()
 
     z1 = (sin(4 * a) / (1 + cos(4 * a))) * (cos(2 * a) / (1 + cos(2 * a)));
 
-    z2 = 1.0 / tan(1.5 * Pi - a);
+    // z2 = 1.0 / tan(1.5 * Pi - a);
        
     cout << endl;
     cout << "z1 = " << z1 << endl;
